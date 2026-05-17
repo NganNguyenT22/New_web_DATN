@@ -1,4 +1,4 @@
-const API_URL = "https://script.google.com/macros/s/AKfycbxURoa6XsfdGjm0O-YWdc1wHidBoyRRgY3dxETqupCt0cPt_XGtDYDRPvAWwXeMVWpN/exec"; // <-- THAY LINK CỦA BẠN VÀO ĐÂY
+const API_URL = "https://script.google.com/macros/s/AKfycbyu_JxFlmxFNKObTQhdlxWITkUUyudOG-hB4CkUXLCGNM05baOBbYMC7IsYXjfFw9qN/exec"; // <-- THAY LINK CỦA BẠN VÀO ĐÂY
         
 let currentUser = null;
 let dataNhap = [];
